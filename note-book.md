@@ -2,11 +2,6 @@
 
 ### Phase 1: Basics & Frontend
 
-```
-# HTML CSS JavaScript
-npm install
+React JS + Tailwind CSS
 
-# Frontend deps
-cd frontend
-npm install
-```
+- 
